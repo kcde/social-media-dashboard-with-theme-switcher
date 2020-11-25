@@ -63,7 +63,7 @@
     left: 28px;
 }
 
-.light-mode .primary-cards .card:hover {
+.primary-cards .card:hover {
     transform: rotate(5deg); /* transition: box-shadow 150ms ease-in-out; */
 }
 
